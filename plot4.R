@@ -4,7 +4,7 @@
 ##
 
 plot4 <- function() {
-  ## function to plot data on screen and into png as well
+  ## function to plot data on screen or into png file
 
   # debug / production mode
   myPlotToFile <- TRUE
